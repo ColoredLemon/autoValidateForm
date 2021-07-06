@@ -1,0 +1,10 @@
+body{
+    background-color: grey;
+}
+.signup__field__input--error {
+    border: 1px solid red;
+  }
+  
+.signup__field__error {
+    color: red;
+  }
